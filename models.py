@@ -24,7 +24,6 @@ class User(Base):
                 'name': self.name,
                 'age': self.age
             },
-
         }
 # Таблица постов
 class Post(Base):
